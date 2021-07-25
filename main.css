@@ -1,6 +1,5 @@
 @charset"UTF-8";
-/*! ClearVision v6.1.1 by the CV team */
-/*! Powered by DiscordSelectors v0.2.7 */
+/*! YinBuLiaoTheme by the YinBuLiao */
 /* DEFAULT SETTINGS */
  :root {
     --main-color: #2780e6;
@@ -245,7 +244,7 @@ body, button, input, select, textarea, ::placeholder {
     order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-    content:"YinBuLiao";
+    content:"YinBuLiaoTheme";
     color: rgba(255, 255, 255, 0.7);
     font-size: 14px;
     text-shadow: 0 0 3px #000;
@@ -1099,13 +1098,13 @@ body, button, input, select, textarea, ::placeholder {
     transition: all 0.5s ease-in-out;
 }
 .container-3baos1:before {
-    content:"ClearVision";
+    content:"YinBuLiaoTheme";
     right: 50%;
     text-align: right;
     transform: translateX(50%);
 }
 .container-3baos1:after {
-    content:"v6.1.1";
+    content:"v1.0.0";
     left: 50%;
     text-align: left;
     opacity: 0;
